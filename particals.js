@@ -1,6 +1,6 @@
 // Thanks : particle.js
 //----ANIMATED HEADER---//
-
+<script>
 ! function(t, e) {
     "use strict";
     var i = t.GreenSockGlobals = t.GreenSockGlobals || t;
@@ -818,3 +818,4 @@ var _gsScope = "undefined" != typeof module && module.exports && "undefined" != 
         var u, c, p, f, m, d, g, v = !0;
         t(), r(), e()
     }();
+</script>
